@@ -55,7 +55,7 @@
     "leiang-easy-dialog": "^1.0.1",
     "mixins": "0.0.1",
     "mocha": "^3.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.27.0",
     "nightwatch": "^1.0.12",
     "node-notifier": "^5.1.2",
     "node-sass": "^4.12.0",
