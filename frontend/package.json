@@ -33,7 +33,7 @@
     "cross-env": "^5.0.1",
     "cross-spawn": "^5.0.1",
     "css-loader": "^0.28.0",
-    "echarts": "^4.1.0",
+    "echarts": "^5.5.1",
     "element-ui": "^2.4.10",
     "eventsource-polyfill": "^0.9.6",
     "extract-text-webpack-plugin": "^3.0.0",
